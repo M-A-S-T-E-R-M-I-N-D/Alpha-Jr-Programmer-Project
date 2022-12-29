@@ -1,4 +1,3 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -12,7 +11,7 @@ public class ColorPicker : MonoBehaviour
     public System.Action<Color> onColorChanged;
 
     List<Button> m_ColorButtons = new List<Button>();
-    
+
     // Start is called before the first frame update
     public void Init()
     {
