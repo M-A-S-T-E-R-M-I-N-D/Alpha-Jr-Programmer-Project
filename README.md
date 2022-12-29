@@ -1,5 +1,5 @@
 # Alpha-Jr-Programmer-Project
-# Created by Δ VISION aka M-A-S-T-E-R-M-I-N-D
+## Created by Δ VISION aka M-A-S-T-E-R-M-I-N-D
 
 Junior Programmer: Manage scene flow and data
 --------------------------------------------------
