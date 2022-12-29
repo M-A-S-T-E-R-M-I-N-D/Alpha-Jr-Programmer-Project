@@ -16,6 +16,7 @@ It is all set up, fixed, and ready to launch. Feel free to use it and solve your
 I created the prototype for educational purposes only. Feel free to clone and try.
 
 I challenge you to experience it or even become our coffee machine gun.
+
 All donations will support the near development of new gaming experiences and are shared among contributors.
 
 ## Stay in touch & support... 🔫 ☕ ;)
