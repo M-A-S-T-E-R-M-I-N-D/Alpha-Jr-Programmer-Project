@@ -2,12 +2,11 @@
 --------------------------------------------------
 Created by Δ VISION aka M-A-S-T-E-R-M-I-N-D
 
-Project Info
---------------------------------------------------
-This project is part of the Unity Learn Junior Programmer Pathway.
-
 Junior Programmer: Manage scene flow and data
+--------------------------------------------------
 https://learn.unity.com/mission/programming-systems-and-architecture
+
+This project is part of the Unity Learn Junior Programmer Pathway.
 
 Join my Unity Learn Journey @YouTube
 --------------------------------------------------
