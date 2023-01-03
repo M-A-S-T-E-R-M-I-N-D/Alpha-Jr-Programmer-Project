@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class MainManager : MonoBehaviour
 {
-    public static MainManager I;
+    public static MainManager I { get; private set; }
 
     public Color teamColor;
 
